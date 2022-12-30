@@ -1,0 +1,5 @@
+All art assets (files in ``art/``) are distributed under the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.  
+Artist: Artur Juhorov.
+Copyright held by Artur Juhorov.
+
+Contact: mrpreobrazhenskij@gmail.com
