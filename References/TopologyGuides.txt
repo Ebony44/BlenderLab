@@ -1,2 +1,3 @@
 https://topologyguides.com/
 https://topologyguides.com/loop-reduction
+https://topologyguides.com/manipulating-edge-poles
