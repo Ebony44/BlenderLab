@@ -13,7 +13,7 @@
 /.vscode/
 /[Uu]serSettings/
 
-#/ToolsAndAddons/
+/ToolsAndAddons/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
