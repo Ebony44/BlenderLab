@@ -5,6 +5,14 @@ Viewport-XrayMode Hot key is alt+z
 
 10+ TIPS For Modelling Anime Characters in BLENDER (Optimize Your Workflow!) #1
 https://www.youtube.com/watch?v=1YvdKvBn5H8
-vertices count? 
+
+-> head
+--> front
+---> first vertex = 3 point left from center, 2 point up from center
+---> second vertex = 4 point left from center, 9 point up from center
+
+-> vertices count? 
 hands for 12 
 feet for 10
+
+
