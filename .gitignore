@@ -15,6 +15,7 @@
 
 /ToolsAndAddons/
 /Ref_Not_Git_following/
+/Reference_Ref_Not_Git_following/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
