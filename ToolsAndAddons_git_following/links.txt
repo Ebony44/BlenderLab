@@ -1,3 +1,7 @@
 
 pixel art addon -
 https://www.youtube.com/watch?v=vzIVn3G1Z2U&t=89s&ab_channel=LucasRoedel
+
+
+mesh-fairing-master
+https://github.com/fedackb/mesh-fairing
