@@ -9,6 +9,6 @@ https://arca.live/b/3d3d/135402787
 female, 7 head ratio, top to bottom(1st to 7th)
 
 
-neck's start root is end of 2nd bone's end point
+neck's start root is end of 1st bone's end point
 belly button is pointed at 3rd bone's mid
 crotch is pointed at 4th bone's mid
